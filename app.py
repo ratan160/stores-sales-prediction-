@@ -63,7 +63,7 @@ def main():
     st.success(' {}'.format(result))
     if st.button("About"):
         st.text("Made by")
-        st.text("Nitesh,Anshi,Divya,Kashit")
+        st.text("Ratan")
 
 if __name__ == '__main__':
     main()
